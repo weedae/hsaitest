@@ -149,3 +149,7 @@ for i, country in enumerate(selected_countries):
             delta=growth,
             delta_color=delta_color
         )
+
+'''
+이번학기 마지막 프로젝트입니다 !! 수고 많으셨습니다~
+# '''
